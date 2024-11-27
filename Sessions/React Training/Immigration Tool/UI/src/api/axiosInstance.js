@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const baseURL = 'http://localhost:80';
+const baseURL = 'http://localhost:5177/api';
 const token = localStorage.getItem('token');
 
 const axiosInstance = axios.create({
