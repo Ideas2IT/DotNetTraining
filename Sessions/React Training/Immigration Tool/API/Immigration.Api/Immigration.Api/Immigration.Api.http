@@ -1,0 +1,6 @@
+@Immigration.Api_HostAddress = http://localhost:5177
+
+GET {{Immigration.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
