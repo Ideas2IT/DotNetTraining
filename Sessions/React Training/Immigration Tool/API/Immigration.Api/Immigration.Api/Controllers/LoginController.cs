@@ -6,7 +6,8 @@ using System;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
-using Immigration.Api.Models;  // Replace with your actual namespace
+using Immigration.Api.Models;
+using Immigration.Api.Data;
 
 namespace Immigration.Api.Controllers
 {
